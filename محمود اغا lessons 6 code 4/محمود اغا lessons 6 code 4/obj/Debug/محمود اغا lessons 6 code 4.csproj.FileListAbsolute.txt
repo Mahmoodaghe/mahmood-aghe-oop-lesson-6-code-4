@@ -1,0 +1,8 @@
+c:\users\afaq\documents\visual studio 2012\Projects\محمود اغا lessons 6 code 4\محمود اغا lessons 6 code 4\bin\Debug\محمود اغا lessons 6 code 4.exe.config
+c:\users\afaq\documents\visual studio 2012\Projects\محمود اغا lessons 6 code 4\محمود اغا lessons 6 code 4\bin\Debug\محمود اغا lessons 6 code 4.exe
+c:\users\afaq\documents\visual studio 2012\Projects\محمود اغا lessons 6 code 4\محمود اغا lessons 6 code 4\bin\Debug\محمود اغا lessons 6 code 4.pdb
+c:\users\afaq\documents\visual studio 2012\Projects\محمود اغا lessons 6 code 4\محمود اغا lessons 6 code 4\obj\Debug\محمود_اغا_lessons_6_code_4.Form1.resources
+c:\users\afaq\documents\visual studio 2012\Projects\محمود اغا lessons 6 code 4\محمود اغا lessons 6 code 4\obj\Debug\محمود_اغا_lessons_6_code_4.Properties.Resources.resources
+c:\users\afaq\documents\visual studio 2012\Projects\محمود اغا lessons 6 code 4\محمود اغا lessons 6 code 4\obj\Debug\محمود اغا lessons 6 code 4.csproj.GenerateResource.Cache
+c:\users\afaq\documents\visual studio 2012\Projects\محمود اغا lessons 6 code 4\محمود اغا lessons 6 code 4\obj\Debug\محمود اغا lessons 6 code 4.exe
+c:\users\afaq\documents\visual studio 2012\Projects\محمود اغا lessons 6 code 4\محمود اغا lessons 6 code 4\obj\Debug\محمود اغا lessons 6 code 4.pdb
